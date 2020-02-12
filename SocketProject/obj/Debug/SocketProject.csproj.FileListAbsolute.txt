@@ -1,0 +1,13 @@
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.exe.config
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.exe
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\SocketProject.pdb
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.FrmTcpServer.resources
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.Properties.Resources.resources
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csproj.GenerateResource.cache
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.exe
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.pdb
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\log4net.dll
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\log4net.xml
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csproj.CopyComplete
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csprojAssemblyReference.cache
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.FrmTcpClient.resources

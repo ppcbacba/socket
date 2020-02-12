@@ -1,0 +1,1655 @@
+- : 开始初始化socket
+2020-02-11 13:52:07,604-:Server.Logging- : 开始初始化socket
+2020-02-11 13:53:00,459-- : 开始初始化socket
+2020-02-11 15:50:06,611-- : 开始初始化socket
+2020-02-11 15:50:06,613-- 开始监听……
+2020-02-11 15:50:40,098-- : 开始初始化socket
+2020-02-11 15:50:40,117-- 2020/2/11 15:50:40: 建立socketserver失败。通常每个套接字地址(协议/网络地址/端口)只允许使用一次。
+2020-02-11 15:51:01,250-- : 开始初始化socket
+2020-02-11 15:51:01,252-- 开始监听……
+2020-02-11 18:15:29,092-- : 开始初始化socket
+2020-02-11 18:15:29,095-- 开始监听……
+2020-02-11 18:19:36,538-- : 开始初始化socket
+2020-02-11 18:19:36,541-- 开始监听……
+2020-02-11 18:21:18,526-- : 开始初始化socket
+2020-02-11 18:21:18,539-- 开始监听……
+2020-02-11 18:28:36,387-- : 开始初始化socket
+2020-02-11 18:28:36,390-- 开始监听……
+2020-02-11 18:29:13,365-- : 开始初始化socket
+2020-02-11 18:29:13,368-- 开始监听……
+2020-02-11 18:29:57,876-- : 开始初始化socket
+2020-02-11 18:29:57,879-- 开始监听……
+2020-02-11 18:32:51,905-- : 开始初始化socket
+2020-02-11 18:32:51,907-- 开始监听……
+2020-02-11 18:35:53,825-- : 开始初始化socket
+2020-02-11 18:35:53,828-- 开始监听……
+2020-02-11 18:46:12,024-- : 开始初始化socket
+2020-02-11 18:46:12,027-- 开始监听……
+2020-02-12 07:39:54,428-- : 开始初始化socket
+2020-02-12 07:39:54,431-- 开始监听……
+2020-02-12 07:42:55,260-- : 开始初始化socket
+2020-02-12 07:42:55,263-- 开始监听……
+2020-02-12 07:45:06,514-- : 开始初始化socket
+2020-02-12 07:45:06,517-- 开始监听……
+2020-02-12 08:10:50,454-- : 开始初始化socket
+2020-02-12 08:10:50,457-- 开始监听……
+2020-02-12 08:11:43,630-- : 开始初始化socket
+2020-02-12 08:11:43,635-- 开始监听……
+2020-02-12 08:12:12,064-- : 开始初始化socket
+2020-02-12 08:12:12,066-- 开始监听……
+2020-02-12 08:14:42,285-- : 开始初始化socket
+2020-02-12 08:14:42,288-- 开始监听……
+2020-02-12 08:19:33,663-- : 开始初始化socket
+2020-02-12 08:19:57,672-- : 开始初始化socket
+2020-02-12 08:21:20,403-- : 开始初始化socket
+2020-02-12 08:21:20,405-- 开始监听……
+2020-02-12 08:48:57,333-- : 开始初始化socket
+2020-02-12 08:48:57,336-- 开始监听……
+2020-02-12 08:52:03,209-- : 开始初始化socket
+2020-02-12 08:52:03,211-- 开始监听……
+2020-02-12 08:52:09,843-- : 开始初始化socket
+2020-02-12 08:52:09,844-- 开始监听……
+2020-02-12 08:52:29,351-- : 开始初始化socket
+2020-02-12 08:52:29,354-- 开始监听……
+2020-02-12 08:52:37,775-- : 开始初始化socket
+2020-02-12 08:52:37,775-- 开始监听……
+2020-02-12 08:53:12,569-- : 开始初始化socket
+2020-02-12 08:53:12,572-- 开始监听……
+2020-02-12 08:53:22,776-- : 开始初始化socket
+2020-02-12 08:53:22,776-- 开始监听……
+2020-02-12 08:54:46,011-- : 开始初始化socket
+2020-02-12 08:54:46,014-- 开始监听……
+2020-02-12 08:54:52,043-- : 开始初始化socket
+2020-02-12 08:54:52,043-- 开始监听……
+2020-02-12 09:00:44,846-- : 开始初始化socket
+2020-02-12 09:00:44,850-- 开始初始化socket
+2020-02-12 09:00:44,850-- 开启监听
+2020-02-12 09:01:01,738-- 127.0.0.1:13733 上线
+2020-02-12 09:01:05,869-- accept错误一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2020-02-12 09:01:05,877-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,887-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,896-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,907-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,918-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,929-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,942-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,956-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,971-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:05,987-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,007-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,025-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,042-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,059-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,076-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,093-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,111-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,128-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,144-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,162-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,179-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,197-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,220-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,238-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,256-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,273-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,290-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,307-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,325-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,342-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,359-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,376-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,394-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,411-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,428-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,446-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,463-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,479-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,496-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,518-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,538-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,556-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,573-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,590-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,608-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,625-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,642-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,659-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,676-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,693-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,709-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,726-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,744-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,762-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,780-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,797-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,814-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,831-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,848-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,865-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,888-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,905-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,921-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,938-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,955-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,972-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:06,989-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,007-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,023-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,039-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,056-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,075-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,091-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,108-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,125-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,142-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,159-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,176-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,193-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,209-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,227-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,243-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,261-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,278-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,295-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,312-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,329-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,346-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,363-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,381-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,398-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,414-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,438-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,455-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,471-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,488-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,505-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,521-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,538-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,556-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,574-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,591-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,609-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,627-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,646-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,663-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,680-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,699-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,716-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,734-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,755-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,772-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,789-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,806-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,824-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,842-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,859-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,876-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,893-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,910-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,927-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,944-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,962-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,978-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:07,995-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,012-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,029-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,046-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,063-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,080-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,097-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,114-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,131-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,148-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,165-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,182-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,199-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,222-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,241-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,257-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,274-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,291-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,308-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,325-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,343-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,361-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,378-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,395-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,412-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,432-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,449-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,467-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,490-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,507-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,526-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,543-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,562-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,579-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,599-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,618-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,640-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,663-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,680-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,698-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,716-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,740-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,758-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,773-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,790-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,807-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,825-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,842-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,859-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,877-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,893-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,910-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,927-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,945-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,963-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,979-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:08,997-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,014-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,032-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,049-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,065-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,082-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,106-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,124-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,141-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,158-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,174-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,191-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,208-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,224-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,242-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,259-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,277-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,293-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,311-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,328-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,345-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,362-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,378-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,394-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,411-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,428-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,444-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,462-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,477-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,494-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,511-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,529-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,546-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,563-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,579-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,596-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,613-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,629-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,647-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,664-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,681-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,698-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,715-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,733-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,750-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,768-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,791-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,809-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,829-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,846-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,864-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,883-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,900-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,923-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,941-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,958-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,975-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:09,993-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,011-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,028-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,045-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,063-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,079-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,098-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,116-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,134-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,150-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,166-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,183-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,200-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,218-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,241-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,258-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,275-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,292-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,310-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,328-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,346-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,363-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,379-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,397-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,414-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,430-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,448-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,465-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,482-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,499-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,516-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,533-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,550-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,568-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,591-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,608-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,625-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,641-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,658-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,675-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,692-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,709-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,726-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,742-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,759-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,775-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,792-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,808-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,825-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,843-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,861-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,877-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,895-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,912-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,929-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,946-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,962-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,981-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:10,999-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,016-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,029-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,047-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,063-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,082-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,099-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,116-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,135-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,153-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,175-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,196-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,213-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,232-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,251-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,268-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,291-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,309-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,328-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,350-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,376-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,392-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,409-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,426-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,444-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,462-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,478-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,495-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,513-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,530-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,547-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,565-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,582-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,602-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,621-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,643-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,661-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,678-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,697-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,717-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,736-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,752-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,770-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,792-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,810-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,827-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,844-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,861-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,878-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,895-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,912-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,929-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,947-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,964-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,982-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:11,999-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,016-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,033-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,060-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,067-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,085-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,103-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,126-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,143-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,159-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,176-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,193-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,215-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,220-- 127.0.0.1:13733下线
+2020-02-12 09:01:12,221-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,237-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,260-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,276-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,292-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,311-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,327-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,344-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,361-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,377-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,394-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,411-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,428-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,450-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,468-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,485-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,502-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,518-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,543-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,564-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,581-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,598-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,615-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,633-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,649-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,667-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,684-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,701-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,719-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,744-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,767-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,785-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,802-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,821-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,837-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,858-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,874-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,894-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,913-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,929-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,945-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,963-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,979-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:12,996-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,014-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,031-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,047-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,063-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,080-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,098-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,115-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,132-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,148-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,165-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,182-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,198-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,214-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,232-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,248-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,265-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,282-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,299-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,316-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,333-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,351-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,370-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,388-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,411-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,431-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,448-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,466-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,483-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,501-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,518-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,536-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,553-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,573-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,597-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,615-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,633-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,651-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,669-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,687-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,704-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,728-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,764-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,781-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,798-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,814-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,832-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,848-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,868-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,884-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,900-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,917-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,935-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,951-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,968-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:13,986-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,003-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,020-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,037-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,054-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,071-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,087-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,103-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,119-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,144-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,162-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,180-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,197-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,214-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,231-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,249-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,266-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,282-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,299-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,316-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,335-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,351-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,369-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,388-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,412-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,428-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,445-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,463-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,479-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,496-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,513-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,529-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,546-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,568-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,585-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,602-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,621-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,638-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,654-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,679-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,697-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,714-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,732-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,749-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,767-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,786-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,803-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,809-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,830-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,848-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,855-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,878-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,896-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,917-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,936-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,955-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,961-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,978-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:14,997-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,016-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,034-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,040-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,058-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,079-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,096-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,114-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,131-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,149-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,166-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,183-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,200-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,216-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,232-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,248-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,265-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,282-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,299-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,316-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,332-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,349-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,365-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,383-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,399-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,416-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,433-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,450-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,472-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,495-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,512-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,529-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,546-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,563-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,580-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,596-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,615-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,633-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,650-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,667-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,684-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,701-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,718-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,735-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,752-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,769-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,785-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,802-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,807-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,825-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,846-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,874-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,892-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,913-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,931-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,948-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,965-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:15,983-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,001-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,017-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,035-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,041-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,060-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,080-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,101-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,118-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,137-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,154-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,171-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,188-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,205-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,221-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,239-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,256-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,273-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,295-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,312-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,329-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,346-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,363-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,381-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,398-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,415-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,431-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,448-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,465-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,482-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,499-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,517-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,534-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,551-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,569-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,586-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,603-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,620-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,638-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,655-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,672-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,688-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,705-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,721-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,738-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,754-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,772-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,788-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,806-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,824-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,840-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,864-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,882-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,898-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,914-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,931-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,947-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,965-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,981-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:16,998-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,015-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,031-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,048-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,068-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,085-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,102-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,120-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,137-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,154-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,171-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,189-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,206-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,222-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,240-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,256-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,274-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,298-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,331-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,350-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,368-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,385-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,395-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,414-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,431-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,449-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,467-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,484-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,502-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,519-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,537-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,555-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,573-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,579-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,596-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,613-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,632-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,648-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,664-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,682-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,700-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,705-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,722-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,741-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,759-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,780-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,798-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,816-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,835-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,852-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,870-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,889-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,907-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,924-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,942-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,965-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:17,994-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,015-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,033-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,050-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,067-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,087-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,105-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,123-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,147-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,165-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,184-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,201-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,221-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,239-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,258-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,274-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,297-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,313-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,330-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,347-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,363-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,380-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,398-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,416-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,432-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,449-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,466-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:18,487-- accept错误无法访问已释放的对象。
+对象名:“System.Net.Sockets.Socket”。
+2020-02-12 09:01:57,804-- : 开始初始化socket
+2020-02-12 09:01:57,807-- 开始初始化socket
+2020-02-12 09:01:57,807-- 开启监听
+2020-02-12 09:02:00,472-- 127.0.0.1:13743 上线
+2020-02-12 09:02:02,502-- 127.0.0.1:13743下线
+2020-02-12 09:02:05,660-- 127.0.0.1:13746 上线
+2020-02-12 09:02:08,218-- 127.0.0.1:13746下线
+2020-02-12 09:02:08,891-- 127.0.0.1:13747 上线
+2020-02-12 09:02:12,993-- accept错误 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2020-02-12 09:02:20,400-- : 开始初始化socket
+2020-02-12 09:02:20,400-- 开始初始化socket
+2020-02-12 09:02:20,400-- 开启监听
+2020-02-12 09:02:22,675-- 127.0.0.1:13747下线
+2020-02-12 09:02:24,221-- 127.0.0.1:13748 上线
+2020-02-12 09:02:53,138-- 127.0.0.1:13748下线
+2020-02-12 09:02:53,938-- 127.0.0.1:13749 上线
+2020-02-12 09:02:56,107-- accept错误 一个封锁操作被对 WSACancelBlockingCall 的调用中断。
+2020-02-12 09:03:04,955-- 127.0.0.1:13749下线
+2020-02-12 09:03:11,353-- : 开始初始化socket
+2020-02-12 09:03:11,356-- 开始初始化socket
+2020-02-12 09:03:11,357-- 开启监听
+2020-02-12 09:03:11,404-- 127.0.0.1:13751 上线
+2020-02-12 09:03:13,144-- 127.0.0.1:13751下线
+2020-02-12 09:03:14,062-- 127.0.0.1:13752 上线
+2020-02-12 11:19:03,475-- : 开始初始化socket
+2020-02-12 11:19:03,478-- 开始初始化socket
+2020-02-12 11:19:03,478-- 开启监听
+2020-02-12 11:19:09,152-- 127.0.0.1:12221 上线
+2020-02-12 11:19:15,558-- 127.0.0.1:12224 上线
+2020-02-12 11:19:37,347-- From 127.0.0.1:12224: http://www.cmsoft.cn
+
+
+2020-02-12 11:19:40,076-- From 127.0.0.1:12221: http://www.cmsoft.cn
+
+
+2020-02-12 11:21:38,090-- : 开始初始化socket
+2020-02-12 11:21:38,092-- 开始初始化socket
+2020-02-12 11:21:38,092-- 开启监听
+2020-02-12 11:21:42,230-- 127.0.0.1:12233 上线
+2020-02-12 11:21:51,354-- 127.0.0.1:12236 上线
+2020-02-12 11:29:30,476-- : 开始初始化socket
+2020-02-12 11:29:30,478-- 开始初始化socket
+2020-02-12 11:29:30,479-- 开启监听
+2020-02-12 11:29:33,718-- 127.0.0.1:12275 上线
+2020-02-12 11:29:42,642-- 127.0.0.1:12279 上线
+2020-02-12 11:29:47,937-- 127.0.0.1:12283 上线
+2020-02-12 11:29:56,435-- 发生网络错误：给定关键字不在字典中。
+2020-02-12 11:29:56,441-- 发生网络错误：给定关键字不在字典中。
+2020-02-12 11:29:56,448-- 发生网络错误：给定关键字不在字典中。
+2020-02-12 11:31:54,076-- : 开始初始化socket
+2020-02-12 11:31:54,078-- 开始初始化socket
+2020-02-12 11:31:54,079-- 开启监听
+2020-02-12 11:32:12,627-- 127.0.0.1:12314 上线
+2020-02-12 11:32:13,788-- 127.0.0.1:12315 上线
+2020-02-12 11:32:49,532-- 发生网络错误：给定关键字不在字典中。
+2020-02-12 11:32:49,538-- 发生网络错误：给定关键字不在字典中。
+2020-02-12 11:33:30,005-- : 开始初始化socket
+2020-02-12 11:33:30,010-- 开始初始化socket
+2020-02-12 11:33:30,010-- 开启监听
+2020-02-12 11:33:31,968-- 127.0.0.1:12316 上线
+2020-02-12 11:33:34,808-- 127.0.0.1:12317 上线
+2020-02-12 11:37:40,275-- : 开始初始化socket
+2020-02-12 11:37:40,278-- 开始初始化socket
+2020-02-12 11:37:40,278-- 开启监听
+2020-02-12 11:37:43,001-- 127.0.0.1:12335 上线
+2020-02-12 11:37:44,578-- 127.0.0.1:12336 上线
+2020-02-12 11:37:54,357-- 发送信息到System.Net.Sockets.Socket:Hi
+2020-02-12 11:37:54,358-- 发送信息到System.Net.Sockets.Socket:Hi
+2020-02-12 12:19:14,119-- : 开始初始化socket
+2020-02-12 12:19:14,122-- 开始初始化socket
+2020-02-12 12:19:14,122-- 开启监听
+2020-02-12 12:19:19,046-- 127.0.0.1:12625 上线
+2020-02-12 12:19:20,947-- 127.0.0.1:12626 上线
+2020-02-12 12:19:29,362-- 发送信息到127.0.0.1:12625:你好
+2020-02-12 12:19:29,363-- 发送信息到127.0.0.1:12626:你好
+2020-02-12 15:29:30,643-- : 开始初始化socket
+2020-02-12 15:29:30,645-- 开始初始化socket
+2020-02-12 15:29:30,645-- 开启监听
+2020-02-12 15:29:34,150-- 开始初始化socket
+2020-02-12 15:29:34,150-- 连接服务器成功
+2020-02-12 15:29:34,175-- 127.0.0.1:14157 上线
+2020-02-12 15:29:54,193-- 没有选中的客户端
+2020-02-12 15:29:59,543-- 发送信息到127.0.0.1:14157:发送
+2020-02-12 15:29:59,544-- From 服务器：发送
+2020-02-12 15:32:50,943-- : 开始初始化socket
+2020-02-12 15:32:50,945-- 开始初始化socket
+2020-02-12 15:32:50,945-- 开启监听
+2020-02-12 15:33:03,939-- 开始初始化socket
+2020-02-12 15:33:03,940-- 连接服务器成功
+2020-02-12 15:33:03,946-- 127.0.0.1:14160 上线
+2020-02-12 15:33:13,566-- 发送信息到127.0.0.1:8001:你好，server
+2020-02-12 15:33:13,567-- From 127.0.0.1:14160: 你好，server
+2020-02-12 15:33:56,606-- : 开始初始化socket
+2020-02-12 15:33:56,608-- 开始初始化socket
+2020-02-12 15:33:56,609-- 开启监听
+2020-02-12 15:34:09,020-- 开始初始化socket
+2020-02-12 15:34:09,023-- 连接服务器成功
+2020-02-12 15:34:09,028-- 127.0.0.1:14161 上线
+2020-02-12 15:34:16,839-- 服务器断开连接 你的主机中的软件中止了一个已建立的连接。
+2020-02-12 15:34:16,840-- 127.0.0.1:14161下线远程主机强迫关闭了一个现有的连接。
+2020-02-12 15:37:12,229-- : 开始初始化socket
+2020-02-12 15:37:12,232-- 开始初始化socket
+2020-02-12 15:37:12,232-- 开启监听
+2020-02-12 15:37:32,245-- 开始初始化socket
+2020-02-12 15:37:32,246-- 连接服务器成功
+2020-02-12 15:37:32,252-- 127.0.0.1:14163 上线
+2020-02-12 15:37:35,708-- 开始初始化socket
+2020-02-12 15:37:35,708-- 连接服务器成功
+2020-02-12 15:37:35,715-- 127.0.0.1:14164 上线
+2020-02-12 15:37:43,820-- 发送信息到127.0.0.1:14163:你们好
+2020-02-12 15:37:43,821-- 发送信息到127.0.0.1:14164:你们好
+2020-02-12 15:37:43,822-- From 服务器：你们好
+2020-02-12 15:37:43,822-- From 服务器：你们好
+2020-02-12 15:37:52,699-- 服务器断开连接 你的主机中的软件中止了一个已建立的连接。
+2020-02-12 15:37:52,700-- 127.0.0.1:14163下线远程主机强迫关闭了一个现有的连接。
+2020-02-12 15:38:02,891-- 发送信息到127.0.0.1:8001:你好
+2020-02-12 15:38:02,891-- From 127.0.0.1:14164: 你好
+2020-02-12 15:39:51,421-- : 开始初始化socket
+2020-02-12 15:39:51,424-- 开始初始化socket
+2020-02-12 15:39:51,425-- 开启监听
+2020-02-12 15:39:54,520-- 开始初始化socket
+2020-02-12 15:39:54,521-- 连接服务器成功
+2020-02-12 15:39:54,527-- 127.0.0.1:14172 上线
+2020-02-12 15:39:57,359-- 开始初始化socket
+2020-02-12 15:39:57,360-- 连接服务器成功
+2020-02-12 15:39:57,366-- 127.0.0.1:14180 上线
+2020-02-12 20:25:20,001-- : 开始初始化socket
+2020-02-12 20:25:20,004-- 开始初始化socket
+2020-02-12 20:25:20,005-- 开启监听
+2020-02-12 20:25:21,912-- 开始初始化socket
+2020-02-12 20:25:21,912-- 连接服务器成功
+2020-02-12 20:25:21,916-- 127.0.0.1:2973 上线
+2020-02-12 20:25:31,304-- 127.0.0.1:2973: hello
+2020-02-12 20:25:33,919-- 127.0.0.1:2973: 
+2020-02-12 20:25:43,283-- 127.0.0.1:2973: hello
+2020-02-12 20:27:51,500-- : 开始初始化socket
+2020-02-12 20:27:51,503-- 开始初始化socket
+2020-02-12 20:27:51,503-- 开启监听
+2020-02-12 20:28:01,091-- 开始初始化socket
+2020-02-12 20:28:01,091-- 连接服务器成功
+2020-02-12 20:28:01,096-- 127.0.0.1:3006 上线
+2020-02-12 20:28:03,573-- 127.0.0.1:3006: hello
+2020-02-12 20:28:05,291-- 127.0.0.1:3006: hello
+2020-02-12 20:28:07,057-- 127.0.0.1:3006: 0xhello
+2020-02-12 20:28:24,095-- 127.0.0.1:3006: ??
+2020-02-12 20:28:26,078-- 127.0.0.1:3006: 你好
+2020-02-12 20:28:27,533-- 127.0.0.1:3006: 0x你好
+2020-02-12 20:28:38,279-- 127.0.0.1:3006下线远程主机强迫关闭了一个现有的连接。
