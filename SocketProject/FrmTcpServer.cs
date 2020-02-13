@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Diagnostics.Eventing.Reader;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
@@ -160,8 +161,34 @@ namespace SocketProject
                             break;
                         case MessageType.Hex:
                             msg = HexGetString(buffer, 1, length - 1);
-                            AddLog(0,client+": "+msg);
+                            AddLog(0, client + ": " + msg);
 
+                            break;
+                        case MessageType.File:
+                            Invoke(new Action(() =>
+                            {
+                                var sfd = new SaveFileDialog();
+                                sfd.Filter =
+                                    "txt files(*.txt)|*.txt|xls files(*.xls)|*.xls|xlsx files(*.xlsx)|*.xlsx|All files(*.*)|*.*";
+                                if (sfd.ShowDialog() == DialogResult.OK)
+                                {
+                                    var fileSavePath = sfd.FileName;
+                                    using (var fs = new FileStream(fileSavePath, FileMode.Create))
+                                    {
+                                        fs.Write(buffer, 1, length - 1);
+                                    }
+
+                                    AddLog(0, "文件保存成功：" + fileSavePath);
+                                }
+                            }));
+                            break;
+                        case MessageType.JSON:
+                            Invoke(new Action(() => 
+                            { var res = Encoding.Default.GetString(buffer, 1, length);
+                            var StuList = JSONHelper.JSONToEntity<List<Student>>(res);
+                            new FrmJson(StuList).Show();
+                            AddLog(0, "接收JSON对象" + res);}));
+                           
                             break;
                     }
                 }
@@ -272,7 +299,7 @@ namespace SocketProject
             Array.Copy(message, 0, sendMessage, 1, message.Length);
             sendMessage[0] = (byte) MessageType.ASCII;
             socketClient?.Send(sendMessage);
-            txtSender.Clear();
+//            txtSender.Clear();
         }
 
 
@@ -288,7 +315,7 @@ namespace SocketProject
             Array.Copy(message, 0, sendMessage, 1, message.Length);
             sendMessage[0] = (byte) MessageType.UTF8;
             socketClient?.Send(sendMessage);
-            txtSender.Clear();
+//            txtSender.Clear();
         }
 
         private void SendHEX_Click(object sender, EventArgs e)
@@ -298,7 +325,69 @@ namespace SocketProject
             Array.Copy(message, 0, sendMessage, 1, message.Length);
             sendMessage[0] = (byte) MessageType.Hex;
             socketClient?.Send(sendMessage);
-            txtSender.Clear();
+//            txtSender.Clear();
+        }
+
+        private void fileSender_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(txtFile.Text))
+            {
+                MessageBox.Show("先选择要发送的文件");
+            }
+            else
+            {
+                using (var fs = new FileStream(txtFile.Text, FileMode.Open))
+                {
+                    var Filename = Path.GetFileName(txtFile.Text);
+                    var fileExtension = Path.GetExtension(txtFile.Text);
+                    var strMsg = "发送文件:" + Filename + "." + fileExtension;
+                    var send1 = Encoding.Default.GetBytes(strMsg);
+                    var send1Msg = new byte[send1.Length + 1];
+                    Array.Copy(send1, 0, send1Msg, 1, send1.Length);
+                    send1Msg[0] = (byte)MessageType.UTF8;
+                    socketClient?.Send(send1Msg);
+
+                    var send2 = new byte[1024 * 1024 * 10];
+                    var length = fs.Read(send2, 0, send2.Length);
+                    var send2Msg = new byte[length + 1];
+                    Array.Copy(send2, 0, send2Msg, 1, length);
+                    send2Msg[0] = (byte)MessageType.File;
+                    socketClient?.Send(send2Msg);
+
+                    AddLog(0,"发送文件:"+txtFile.Text);
+
+                }
+
+
+            }
+        }
+
+        private void btnSelectFile_Click(object sender, EventArgs e)
+        {
+
+            var ofd = new OpenFileDialog
+            {
+                InitialDirectory = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory)
+            };
+            if (ofd.ShowDialog() == DialogResult.OK)
+                txtFile.Text = ofd.FileName;
+        }
+
+        private void SendJSON_Click(object sender, EventArgs e)
+        {
+            var StuList = new List<Student>()
+            {
+                new Student(){Id=10001,StudentName = "张三",ClassName = "服务器一班"},
+                new Student(){Id=10002,StudentName = "李梅",ClassName = "软件二班"},
+                new Student(){Id=10003,StudentName = "张雷",ClassName = "软件一班"},
+                new Student(){Id=10004,StudentName = "汪洋",ClassName = "网络一班"}
+            };
+            var str = JSONHelper.EntityToJSON(StuList);
+            var send = Encoding.Default.GetBytes(str);
+            var sendMsg = new byte[send.Length + 1];
+            Array.Copy(send, 0, sendMsg, 1, send.Length);
+            sendMsg[0] = (byte)MessageType.JSON;
+            socketClient.Send(sendMsg);
         }
     }
 }

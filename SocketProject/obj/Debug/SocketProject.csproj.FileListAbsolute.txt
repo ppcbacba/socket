@@ -9,5 +9,8 @@ C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.
 C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\log4net.dll
 C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\log4net.xml
 C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csproj.CopyComplete
-C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csprojAssemblyReference.cache
 C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.FrmTcpClient.resources
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.FrmJson.resources
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\qlzcl\source\repos\SocketProject\SocketProject\obj\Debug\SocketProject.csprojAssemblyReference.cache

@@ -32,13 +32,19 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmTcpClient));
             this.label1 = new System.Windows.Forms.Label();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSelectFile = new System.Windows.Forms.Button();
             this.txtFile = new System.Windows.Forms.TextBox();
             this.txtSender = new System.Windows.Forms.TextBox();
             this.ListRecive = new System.Windows.Forms.ListView();
             this.infoTime = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.info = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.imageList1 = new System.Windows.Forms.ImageList(this.components);
+            this.SendFile = new System.Windows.Forms.Button();
+            this.MultiSend = new System.Windows.Forms.Button();
+            this.SendJSON = new System.Windows.Forms.Button();
+            this.SendHEX = new System.Windows.Forms.Button();
+            this.SendUtf8 = new System.Windows.Forms.Button();
+            this.SendASC = new System.Windows.Forms.Button();
             this.listView1 = new System.Windows.Forms.ListView();
             this.label4 = new System.Windows.Forms.Label();
             this.btnStart = new System.Windows.Forms.Button();
@@ -47,12 +53,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.txtPort = new System.Windows.Forms.TextBox();
             this.txtIP = new System.Windows.Forms.TextBox();
-            this.button2 = new System.Windows.Forms.Button();
-            this.MultiSend = new System.Windows.Forms.Button();
-            this.SendJSON = new System.Windows.Forms.Button();
-            this.SendHEX = new System.Windows.Forms.Button();
-            this.SendUtf8 = new System.Windows.Forms.Button();
-            this.SendASC = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.Panel2.SuspendLayout();
@@ -80,14 +80,14 @@
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.Controls.Add(this.button1);
+            this.splitContainer1.Panel1.Controls.Add(this.btnSelectFile);
             this.splitContainer1.Panel1.Controls.Add(this.txtFile);
             this.splitContainer1.Panel1.Controls.Add(this.txtSender);
             this.splitContainer1.Panel1.Controls.Add(this.ListRecive);
             // 
             // splitContainer1.Panel2
             // 
-            this.splitContainer1.Panel2.Controls.Add(this.button2);
+            this.splitContainer1.Panel2.Controls.Add(this.SendFile);
             this.splitContainer1.Panel2.Controls.Add(this.MultiSend);
             this.splitContainer1.Panel2.Controls.Add(this.SendJSON);
             this.splitContainer1.Panel2.Controls.Add(this.SendHEX);
@@ -105,14 +105,15 @@
             this.splitContainer1.SplitterDistance = 546;
             this.splitContainer1.TabIndex = 1;
             // 
-            // button1
+            // btnSelectFile
             // 
-            this.button1.Location = new System.Drawing.Point(425, 484);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 27);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "选择文件";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Location = new System.Drawing.Point(425, 484);
+            this.btnSelectFile.Name = "btnSelectFile";
+            this.btnSelectFile.Size = new System.Drawing.Size(96, 27);
+            this.btnSelectFile.TabIndex = 3;
+            this.btnSelectFile.Text = "选择文件";
+            this.btnSelectFile.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Click += new System.EventHandler(this.btnSelectFile_Click);
             // 
             // txtFile
             // 
@@ -162,6 +163,65 @@
             this.imageList1.Images.SetKeyName(0, "info.ico");
             this.imageList1.Images.SetKeyName(1, "warning.ico");
             this.imageList1.Images.SetKeyName(2, "error.ico");
+            // 
+            // SendFile
+            // 
+            this.SendFile.Location = new System.Drawing.Point(9, 385);
+            this.SendFile.Name = "SendFile";
+            this.SendFile.Size = new System.Drawing.Size(96, 27);
+            this.SendFile.TabIndex = 16;
+            this.SendFile.Text = "发送文件";
+            this.SendFile.UseVisualStyleBackColor = true;
+            this.SendFile.Click += new System.EventHandler(this.SendFile_Click);
+            // 
+            // MultiSend
+            // 
+            this.MultiSend.Location = new System.Drawing.Point(128, 385);
+            this.MultiSend.Name = "MultiSend";
+            this.MultiSend.Size = new System.Drawing.Size(96, 27);
+            this.MultiSend.TabIndex = 15;
+            this.MultiSend.Text = "群发消息";
+            this.MultiSend.UseVisualStyleBackColor = true;
+            // 
+            // SendJSON
+            // 
+            this.SendJSON.Location = new System.Drawing.Point(128, 340);
+            this.SendJSON.Name = "SendJSON";
+            this.SendJSON.Size = new System.Drawing.Size(96, 27);
+            this.SendJSON.TabIndex = 11;
+            this.SendJSON.Text = "发送JSON";
+            this.SendJSON.UseVisualStyleBackColor = true;
+            this.SendJSON.Click += new System.EventHandler(this.SendJSON_Click);
+            // 
+            // SendHEX
+            // 
+            this.SendHEX.Location = new System.Drawing.Point(9, 340);
+            this.SendHEX.Name = "SendHEX";
+            this.SendHEX.Size = new System.Drawing.Size(96, 27);
+            this.SendHEX.TabIndex = 12;
+            this.SendHEX.Text = "发送HEX";
+            this.SendHEX.UseVisualStyleBackColor = true;
+            this.SendHEX.Click += new System.EventHandler(this.SendHEX_Click);
+            // 
+            // SendUtf8
+            // 
+            this.SendUtf8.Location = new System.Drawing.Point(128, 298);
+            this.SendUtf8.Name = "SendUtf8";
+            this.SendUtf8.Size = new System.Drawing.Size(96, 27);
+            this.SendUtf8.TabIndex = 13;
+            this.SendUtf8.Text = "发送UTF8";
+            this.SendUtf8.UseVisualStyleBackColor = true;
+            this.SendUtf8.Click += new System.EventHandler(this.SendUtf8_Click);
+            // 
+            // SendASC
+            // 
+            this.SendASC.Location = new System.Drawing.Point(9, 298);
+            this.SendASC.Name = "SendASC";
+            this.SendASC.Size = new System.Drawing.Size(96, 27);
+            this.SendASC.TabIndex = 14;
+            this.SendASC.Text = "发送ASCII";
+            this.SendASC.UseVisualStyleBackColor = true;
+            this.SendASC.Click += new System.EventHandler(this.SendASC_Click);
             // 
             // listView1
             // 
@@ -235,63 +295,6 @@
             this.txtIP.TabIndex = 0;
             this.txtIP.Text = "127.0.0.1";
             // 
-            // button2
-            // 
-            this.button2.Location = new System.Drawing.Point(9, 385);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 27);
-            this.button2.TabIndex = 16;
-            this.button2.Text = "发送文件";
-            this.button2.UseVisualStyleBackColor = true;
-            // 
-            // MultiSend
-            // 
-            this.MultiSend.Location = new System.Drawing.Point(128, 385);
-            this.MultiSend.Name = "MultiSend";
-            this.MultiSend.Size = new System.Drawing.Size(96, 27);
-            this.MultiSend.TabIndex = 15;
-            this.MultiSend.Text = "群发消息";
-            this.MultiSend.UseVisualStyleBackColor = true;
-            // 
-            // SendJSON
-            // 
-            this.SendJSON.Location = new System.Drawing.Point(128, 340);
-            this.SendJSON.Name = "SendJSON";
-            this.SendJSON.Size = new System.Drawing.Size(96, 27);
-            this.SendJSON.TabIndex = 11;
-            this.SendJSON.Text = "发送JSON";
-            this.SendJSON.UseVisualStyleBackColor = true;
-            // 
-            // SendHEX
-            // 
-            this.SendHEX.Location = new System.Drawing.Point(9, 340);
-            this.SendHEX.Name = "SendHEX";
-            this.SendHEX.Size = new System.Drawing.Size(96, 27);
-            this.SendHEX.TabIndex = 12;
-            this.SendHEX.Text = "发送HEX";
-            this.SendHEX.UseVisualStyleBackColor = true;
-            this.SendHEX.Click += new System.EventHandler(this.SendHEX_Click);
-            // 
-            // SendUtf8
-            // 
-            this.SendUtf8.Location = new System.Drawing.Point(128, 298);
-            this.SendUtf8.Name = "SendUtf8";
-            this.SendUtf8.Size = new System.Drawing.Size(96, 27);
-            this.SendUtf8.TabIndex = 13;
-            this.SendUtf8.Text = "发送UTF8";
-            this.SendUtf8.UseVisualStyleBackColor = true;
-            this.SendUtf8.Click += new System.EventHandler(this.SendUtf8_Click);
-            // 
-            // SendASC
-            // 
-            this.SendASC.Location = new System.Drawing.Point(9, 298);
-            this.SendASC.Name = "SendASC";
-            this.SendASC.Size = new System.Drawing.Size(96, 27);
-            this.SendASC.TabIndex = 14;
-            this.SendASC.Text = "发送ASCII";
-            this.SendASC.UseVisualStyleBackColor = true;
-            this.SendASC.Click += new System.EventHandler(this.SendASC_Click);
-            // 
             // FrmTcpClient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
@@ -321,7 +324,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.SplitContainer splitContainer1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSelectFile;
         private System.Windows.Forms.TextBox txtFile;
         private System.Windows.Forms.TextBox txtSender;
         private System.Windows.Forms.ListView ListRecive;
@@ -336,7 +339,7 @@
         private System.Windows.Forms.Button btnStart;
         private System.Windows.Forms.Button btnStop;
         private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button SendFile;
         private System.Windows.Forms.Button MultiSend;
         private System.Windows.Forms.Button SendJSON;
         private System.Windows.Forms.Button SendHEX;

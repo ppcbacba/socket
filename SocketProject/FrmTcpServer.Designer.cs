@@ -32,7 +32,7 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmTcpServer));
             this.label1 = new System.Windows.Forms.Label();
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnSelectFile = new System.Windows.Forms.Button();
             this.txtFile = new System.Windows.Forms.TextBox();
             this.txtSender = new System.Windows.Forms.TextBox();
             this.ListRecive = new System.Windows.Forms.ListView();
@@ -80,7 +80,7 @@
             // 
             // splitContainer1.Panel1
             // 
-            this.splitContainer1.Panel1.Controls.Add(this.button1);
+            this.splitContainer1.Panel1.Controls.Add(this.btnSelectFile);
             this.splitContainer1.Panel1.Controls.Add(this.txtFile);
             this.splitContainer1.Panel1.Controls.Add(this.txtSender);
             this.splitContainer1.Panel1.Controls.Add(this.ListRecive);
@@ -105,14 +105,15 @@
             this.splitContainer1.SplitterDistance = 546;
             this.splitContainer1.TabIndex = 1;
             // 
-            // button1
+            // btnSelectFile
             // 
-            this.button1.Location = new System.Drawing.Point(425, 484);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 27);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "选择文件";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Location = new System.Drawing.Point(425, 484);
+            this.btnSelectFile.Name = "btnSelectFile";
+            this.btnSelectFile.Size = new System.Drawing.Size(96, 27);
+            this.btnSelectFile.TabIndex = 3;
+            this.btnSelectFile.Text = "选择文件";
+            this.btnSelectFile.UseVisualStyleBackColor = true;
+            this.btnSelectFile.Click += new System.EventHandler(this.btnSelectFile_Click);
             // 
             // txtFile
             // 
@@ -172,6 +173,7 @@
             this.fileSender.TabIndex = 7;
             this.fileSender.Text = "发送文件";
             this.fileSender.UseVisualStyleBackColor = true;
+            this.fileSender.Click += new System.EventHandler(this.fileSender_Click);
             // 
             // MultiSend
             // 
@@ -190,6 +192,7 @@
             this.SendJSON.TabIndex = 5;
             this.SendJSON.Text = "发送JSON";
             this.SendJSON.UseVisualStyleBackColor = true;
+            this.SendJSON.Click += new System.EventHandler(this.SendJSON_Click);
             // 
             // SendHEX
             // 
@@ -321,7 +324,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.SplitContainer splitContainer1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnSelectFile;
         private System.Windows.Forms.TextBox txtFile;
         private System.Windows.Forms.TextBox txtSender;
         private System.Windows.Forms.ListView ListRecive;
